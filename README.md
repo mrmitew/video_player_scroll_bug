@@ -1,8 +1,3 @@
 # video_player_bug
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Demo video [here](https://github.com/mrmitew/video_player_scroll_bug/blob/master/demo/video_player_scroll_bug.webm?raw=true).
